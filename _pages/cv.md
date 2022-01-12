@@ -17,6 +17,8 @@ Work experience
 ======
 * 2019.6 ~ :  Professor,  Doctoral supervisor
   * Xi'an Jiaotong University
+  * Department of Information Management and Electronic Commerce
+  * sblin1983@xjtu.edu.cn
 * 2014.10-2019.6: Lecturer, Distinguished Professor
   * Wenzhou University
 
