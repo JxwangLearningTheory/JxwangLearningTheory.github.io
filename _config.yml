@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxin Wang / Machine Learning"
+title                    : "Shao-Bo Lin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://shuyuandeqipa.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jxwanglearningtheory.github.io  
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shuyuandeqipa/shuyuandeqipa.github.io"
+repository               : "JxwangLearningTheory/JxwangLearningTheory.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinxin Wang"
-  avatar           : "jxwang.jpg"
+  name             : "ShaoboLin"
+  avatar           : "ShaoboLin.jpg"
   bio              : "Jinxin Wang is currently a graduate student at College of Computer Science and Artificial Intelligence, Wenzhou University, China. He received his bachelor’s degree in information and computing science at Wenzhou University.
   His research interests include computer vision,  learning theory and reinforcement learning."
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=sAd6X00AAAAJ&hl=zh-CN"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=dGt4l6QAAAAJ&hl=en" # "https://scholar.google.com.hk/citations?user=sAd6X00AAAAJ&hl=zh-CN"
+  email            : "sblin1983@xjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shuyuandeqipa"
+  github           : "JxwangLearningTheory"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
