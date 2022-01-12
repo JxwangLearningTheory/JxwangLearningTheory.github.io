@@ -34,12 +34,14 @@ author_profile: true
 
 6. <font color ="black">Jinshan Zeng, Shao-Bo Lin, Yuan Yao, Ding-Xuan Zhou, </font><font size=3 color ="blue"> On ADMM in deep learning: Convergence and saturation-avoidance, </font> <font color ="red">Journal of Machine Learning Research, 2021.</font> 
 
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:yIeBiWEAh44C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2021_On_ADMM_in_Deep_Learning.pdf)  
+   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:yIeBiWEAh44C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2021_On_ADMM_in_Deep_Learning.pdf)
 
 7. <font color ="black"> Shao-Bo Lin, Yu Guang Wang, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Distributed filtered hyperinterpolation for noisy data on the sphere,</font> <font color ="red">SIAM Journal on Numerical Analysis, 2021.</font> 
 
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Vztgr1qGG8IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2021_DISTRIBUTED_FILTERED_HYPERINTERPOLATION.pdf)  
+   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Vztgr1qGG8IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2021_DISTRIBUTED_FILTERED_HYPERINTERPOLATION.pdf)
 ------
+
+
 
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2020.</font>
 
