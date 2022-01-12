@@ -1,24 +1,22 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Education
-======
+### Education
+
 * Ph.D in Applied Mathematics, Xi'an Jiaotong University, 2018  
 * M.S. in Fundamental Mathematics, Hangzhou Normal University, 2006.9-2009.6 
 * B.S. in Mathematics and Applied Mathematics, Hangzhou Normal University, 2002.9-2006.6
 
-Work experience
-======
+### Work experience
 * 2019.6 ~ :  Professor,  Doctoral supervisor
   * Xi'an Jiaotong University
   * Department of Information Management and Electronic Commerce
-  * sblin1983@xjtu.edu.cn
+  * Email: sblin1983@xjtu.edu.cn
 * 2014.10-2019.6: Lecturer, Distinguished Professor
   * Wenzhou University
 
@@ -30,8 +28,6 @@ Work experience
 * 2015.3-2016.3 :  Postdoc
 
   * City University of Hong Kong
-
-    
 
     
 
