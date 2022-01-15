@@ -86,12 +86,11 @@ author_profile: true
 
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2019.</font>
 
-16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE transactions on neural networks and learning systems, 2019.</font>
 
+16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE transactions on neural networks and learning systems, 2019.</font>
    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rCNdntzdTkkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Realizing_data_features_by_deep_nets.pdf) 
 
 17. <font color ="black"> Jinshan Zeng, Minrun Wu, Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Fast polynomial kernel classification for massive data,</font> <font color ="red"> arXiv preprint arXiv:1911.10558, 2019.</font> 
-
    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rbGdIwl2e6cC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_fast_polynomial_kernel_classification_for_massive_data.pdf) 
 
 18. <font color ="black">CK Chui, SB Lin, DX Zhou,</font><font size=3 color ="blue"> Deep Net Tree Structure for Balance of Capacity and Approximation Ability,</font> <font color ="red"> Frontiers in Applied Mathematics and Statistics, 2019.</font> 
@@ -119,7 +118,6 @@ author_profile: true
    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:In6cVmBjs0IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Global_Convergence_of_Block_Coordinate_Descent_in_Deep_Learning.pdf) 
 
 24. <font color ="black"> Yao Wang, Xu Liao, Shaobo Lin,</font><font size=3 color ="blue"> Rescaled boosting in classification,</font> <font color ="red">  IEEE transactions on neural networks and learning systems, 2019.</font> 
-   
    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cBPnxVikjH8C) | [Download PDF Here !] 
    
 ------
