@@ -88,37 +88,40 @@ author_profile: true
 
 
 16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE transactions on neural networks and learning systems, 2019.</font>
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rCNdntzdTkkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Realizing_data_features_by_deep_nets.pdf) 
+
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rCNdntzdTkkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Realizing_data_features_by_deep_nets.pdf) 
 
 17. <font color ="black"> Jinshan Zeng, Minrun Wu, Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Fast polynomial kernel classification for massive data,</font> <font color ="red"> arXiv preprint arXiv:1911.10558, 2019.</font> 
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rbGdIwl2e6cC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_fast_polynomial_kernel_classification_for_massive_data.pdf) 
+  
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rbGdIwl2e6cC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_fast_polynomial_kernel_classification_for_massive_data.pdf) 
 
 18. <font color ="black">CK Chui, SB Lin, DX Zhou,</font><font size=3 color ="blue"> Deep Net Tree Structure for Balance of Capacity and Approximation Ability,</font> <font color ="red"> Frontiers in Applied Mathematics and Statistics, 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:60iIaj97TE0C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_deep_net_tree_structure_for_balance_of_capacity_and_approximation_ability.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:60iIaj97TE0C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_deep_net_tree_structure_for_balance_of_capacity_and_approximation_ability.pdf) 
 
 19. <font color ="black">Zheng-Chu Guo, Shao-Bo Lin, Lei Shi,</font><font size=3 color ="blue"> Distributed learning with multi-penalty regularization,</font> <font color ="red"> Applied and Computational Harmonic Analysis, 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:X9ykpCP0fEIC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Distributed_learning_with_multi-penalty_regularization.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:X9ykpCP0fEIC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Distributed_learning_with_multi-penalty_regularization.pdf) 
 
 20. <font color ="black">  Shao-Bo Lin,</font><font size=3 color ="blue"> Nonparametric regression using needlet kernels for spherical data,</font> <font color ="red"> Journal of Complexity, 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:EaFouW7jFu4C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Nonparametric_regression_using_needlet_kernels_for_spherical_data.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:EaFouW7jFu4C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Nonparametric_regression_using_needlet_kernels_for_spherical_data.pdf) 
 
 21. <font color ="black">CK Chui, SB Lin, DX Zhou,</font><font size=3 color ="blue"> Deep Neural Networks for Rotation-Invariance Approximation and Learning,</font> <font color ="red">Analysis and Applications, 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:BJtnxTr0fRcC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Deep_Neural_Networks_for_Rotation-Invariance_Approximation_and_Learning.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:BJtnxTr0fRcC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Deep_Neural_Networks_for_Rotation-Invariance_Approximation_and_Learning.pdf) 
 
 22. <font color ="black"> Shao-Bo Lin, Yunwen Lei, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Boosted kernel ridge regression: optimal learning rates and early stopping,</font> <font color ="red"> The Journal of Machine Learning Research, 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:TesyEGJKHF4C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_boosted_kernel_ridge_regression_optimal_learning_rates_and_early_stopping.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:TesyEGJKHF4C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_boosted_kernel_ridge_regression_optimal_learning_rates_and_early_stopping.pdf) 
 
 23. <font color ="black"> Jinshan Zeng, Tim Tsz-Kit Lau, Shao-Bo Lin, Yuan Yao,</font><font size=3 color ="blue">  Global convergence of block coordinate descent in deep learning,</font> <font color ="red">   International Conference on Machine Learning (ICML), 2019.</font> 
    
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:In6cVmBjs0IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Global_Convergence_of_Block_Coordinate_Descent_in_Deep_Learning.pdf) 
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:In6cVmBjs0IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Global_Convergence_of_Block_Coordinate_Descent_in_Deep_Learning.pdf) 
 
 24. <font color ="black"> Yao Wang, Xu Liao, Shaobo Lin,</font><font size=3 color ="blue"> Rescaled boosting in classification,</font> <font color ="red">  IEEE transactions on neural networks and learning systems, 2019.</font> 
-   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cBPnxVikjH8C) | [Download PDF Here !] 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cBPnxVikjH8C) | [Download PDF Here !] 
    
 ------
 
