@@ -6,6 +6,14 @@ author_profile: true
 
 **Publications:**
 
+
+
+------
+
+<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2022.</font>
+
+
+
 ------
 
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2021.</font>
@@ -125,6 +133,200 @@ author_profile: true
    
 ------
 
+
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2018.</font>
 
+25. <font color ="black">Jian Fang, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">  Learning through deterministic assignment of hidden parameters, </font> <font color ="red">  IEEE Transactions on Cybernetics, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:oqD4_j7ulsYC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Learning_through_deterministic_assignment_of_hidden_parameters.pdf) 
+
+26. <font color ="black">Shaobo Lin, Jinshan Zeng , </font><font size=3 color ="blue">  Fast learning with polynomial kernels, </font> <font color ="red"> IEEE Transactions on Cybernetics, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:6VlyvFCUEfcC ) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Fast_Learning_With_Polynomial_Kernels.pdf) 
+
+
+27. <font color ="black">Xiangyu Chang, Yan Zhong, Yao Wang, Shaobo Lin  ,</font><font size=3 color ="blue"> Unified low-rank matrix estimate via penalized matrix least squares approximation, </font> <font color ="red">  IEEE Transactions on Neural Networks and Learning Systems, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:17ZO-CJnx_8C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Unified_Low-Rank_Matrix_Estimate_via_Penalized_Matrix_Least_Squares_Approximation.pdf) 
+
+
+28. <font color ="black"> Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Optimal learning rates for kernel partial least squares, </font> <font color ="red"> Journal of Fourier Analysis and Applications, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:hSRAE-fF4OAC ) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Optimal_Learning_Rates_for_Kernel_Partial_Least_Squares.pdf) 
+
+
+29. <font color ="black">  Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Distributed kernel-based gradient descent algorithms, </font> <font color ="red"> Constructive Approximation, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:v6i8RKmR8ToC ) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Distributed_kernel-based_gradient_descent_algorithms.pdf) 
+
+
+30. <font color ="black"> Shaobo Lin, Jinshan Zeng, Xiaoqin Zhang,</font><font size=3 color ="blue">  Constructive neural network learning, </font> <font color ="red"> IEEE Transactions on Cybernetics, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:prdVHNxh-e8C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Constructive_neural_network_learning.pdf) 
+
+
+31. <font color ="black">  Yunwen Lei, Shao-Bo Lin, Ke Tang,</font><font size=3 color ="blue">  Generalization Bounds for Regularized Pairwise Learning, </font> <font color ="red">International Joint Conference on Artificial Intelligence, IJCAI , 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Nw_I7GeUguwC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Generalization_Bounds_for_Regularized_Pairwise_Learning.pdf) 
+
+32. <font color ="black">  Shao-Bo Lin,</font><font size=3 color ="blue">  Generalization and Expressivity for Deep Nets, </font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:FsLZdJ3BAzkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Generalization_and_Expressivity_for_Deep_Nets.pdf) 
+
+33. <font color ="black">  CK Chui, SB Lin, DX Zhou,</font><font size=3 color ="blue">  Construction of neural networks for realization of localized deep learning, </font> <font color ="red"> Frontiers in Applied Mathematics and Statistics, 2018.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:PQEM9vzQD9gC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Construction_of_neural_networks_for_realization_of_localized_deep_learning.pdf) 
+
+
+
+------
+
+
+<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2017.</font>
+
+34. <font color ="black">  Shao-Bo Lin, Jinshan Zeng, Xiangyu Chang,</font><font size=3 color ="blue">  Learning rates for classification with Gaussian kernels, </font> <font color ="red"> Neural computation, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:wvYxNZNCP7wC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Learning_rates_for_classification_with_Gaussian_kernels.pdf) 
+
+
+35. <font color ="black">  Shao-Bo Lin,</font><font size=3 color ="blue">  Limitations of shallow nets approximation, </font> <font color ="red"> Neural Networks, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:YlPif8NxrbYC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Limitations_of_shallow_nets_approximation.pdf) 
+
+
+36. <font color ="black">  Lin Xu, Shaobo Lin, Yao Wang, Zongben Xu,</font><font size=3 color ="blue">  Shrinkage Degree in  L_{2}-Rescale Boosting for Regression, </font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:c1e4I3QdEKYC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Shrinkage_Degree_in_L2-Rescale_Boosting_for_Regression.pdf) 
+
+
+37. <font color ="black">  Jinshan Zeng, Zhiming Peng, Shaobo Lin,</font><font size=3 color ="blue">  GAITA: A Gauss–Seidel iterative thresholding algorithm for ℓq regularized least squares regression, </font> <font color ="red"> Journal of Computational and Applied Mathematics, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:HJSXoJQnj-YC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_GAITA_A_Gauss–Seidel_iterative_thresholding_algorithm_for_lq_regularized_least_squares_regression.pdf) 
+
+
+38. <font color ="black">  Zheng-Chu Guo, Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Learning theory of distributed spectral algorithms, </font> <font color ="red"> Inverse Problems, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:27LrP4qxOz0C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Learning_theory_of_distributed_spectral_algorithms.pdf) 
+
+
+39. <font color ="black">  Lin Xu, Shaobo Lin, Jinshan Zeng, Xia Liu, Yi Fang, Zongben Xu,</font><font size=3 color ="blue">  Greedy criterion in orthogonal greedy learning, </font> <font color ="red"> IEEE Transactions on Cybernetics, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:XUvXOeBm_78C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Greedy_Criterion_in_Orthogonal_Greedy_Learning.pdf) 
+
+
+40. <font color ="black">  Xiangyu Chang, Shao-Bo Lin, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Distributed semi-supervised learning with kernel ridge regression, </font> <font color ="red"> The Journal of Machine Learning Research, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:-DxkuPiZhfEC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Distributed_Semi-supervised_Learning_with_Kernel_Ridge_Regression.pdf) 
+
+
+41. <font color ="black">  Shao-Bo Lin, Xin Guo, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Distributed learning with regularized least squares, </font> <font color ="red"> The Journal of Machine Learning Research , 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:An6A6Jpfc1oC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Distributed_Learning_with_Regularized_Least_Squares.pdf) 
+
+
+42. <font color ="black">  Xiangyu Chang, Shao-Bo Lin, Yao Wang,</font><font size=3 color ="blue">  Divide and conquer local average regression, </font> <font color ="red"> Electronic Journal of Statistics, 2017.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:owLR8QvbtFgC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2017_Divide_and_conquer_local_average_regression.pdf) 
+
+------
+
+
+<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2016.</font>
+
+43. <font color ="black">  Shaobo Lin,</font><font size=3 color ="blue">  Linear and nonlinear approximation of spherical radial basis function networks, </font> <font color ="red"> Journal of Complexity, 2016.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:CB2v5VPnA5kC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2016_Linear_and_nonlinear_approximation_of_spherical_radial_basis_function_networks.pdf) 
+
+44. <font color ="black">  Jinshan Zeng, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">  Sparse regularization: Convergence of iterative jumping thresholding algorithm, </font> <font color ="red"> IEEE Transactions on Signal Processing, 2016.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:otzGkya1bYkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2016_Sparse_Regularization_Convergence_Of_Iterative.pdf) 
+
+45. <font color ="black">  Jian Fang, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">  Learning and approximation capabilities of orthogonal super greedy algorithm, </font> <font color ="red"> Knowledge-Based Systems, 2016.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:zCSUwVk65WsC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2016_Learning_and_approximation_capabilities_of_orthogonal_super_greedy_algorithm.pdf) 
+
+46. <font color ="black">  Shaobo Lin, Feilong Cao,</font><font size=3 color ="blue">  Simultaneous approximation by spherical neural networks, </font> <font color ="red"> Neurocomputing, 2016.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:PYBJJbyH-FwC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2016_Simultaneous_approximation_by_spherical_neural_networks.pdf) 
+
+
+------
+
+<font face="华文彩云"  size=5 color ="DarkViolet"> Published in years 2010 ~ 2015.</font>
+
+47. <font color ="black">  Shaobo Lin, Jinshan Zeng, Zongben Xu,</font><font size=3 color ="blue">  Error estimate for spherical neural networks interpolation, </font> <font color ="red"> Neural Processing Letters, 2015.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:48xauSegjOkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2015_Error_estimate_for_spherical_neural_networks_interpolation.pdf) 
+
+
+47. <font color ="black">  Shaobo Lin, Jinshan Zeng, Lin Xu, Zongben Xu,</font><font size=3 color ="blue">  Jackson-type inequalities for spherical neural networks with doubling weights, </font> <font color ="red"> Neural Networks, 2015.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cK4Rrx0J3m0C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2015_Jackson-type_inequalities_for_spherical_neural_networks_with_doubling_weights.pdf) 
+
+
+47. <font color ="black">  Shaobo Lin, Yuanhua Rong, Zongben Xu, </font><font size=3 color ="blue">  Multivariate Jackson-type inequality for a new type neural network approximation, </font> <font color ="red"> Applied Mathematical Modelling, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:lgwcVrK6X84C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Multivariate_Jackson-type_inequality_for_a_new_type_neural_network_approximation.pdf) 
+
+
+47. <font color ="black">  Shaobo Lin, Jinshan Zeng, Jian Fang, Zongben Xu,</font><font size=3 color ="blue">  Learning rates of l_q coefficient regularization learning with Gaussian kernel, </font> <font color ="red"> Neural Computation, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:ubry08Y2EpUC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Learning_rates_of_lq_coefficient_regularization_learning_with_Gaussian_kernel.pdf) 
+
+
+47. <font color ="black">  Shaobo Lin, Xia Liu, Jian Fang, Zongben Xu,</font><font size=3 color ="blue">  Is extreme learning machine feasible? A theoretical assessment (Part II), </font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:PVgj2kMGcgYC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Is_extreme_learning_machine_feasible_A_theoretical_assessment_part2.pdf) 
+
+47. <font color ="black">  Xia Liu, Shaobo Lin, Jian Fang, Zongben Xu,</font><font size=3 color ="blue">  Is extreme learning machine feasible? A theoretical assessment (Part I), </font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems , 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:jgBuDB5drN8C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Is_extreme_learning_machine_feasible_A_theoretical_assessment_part1.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Xia Liu, Yuanhua Rong, Zongben Xu,</font><font size=3 color ="blue">  Almost optimal estimates for approximation and learning by radial basis function networks, </font> <font color ="red"> Machine Learning, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:ufrVoPGSRksC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Almost_optimal_estimates_for_approximation_and_learning_by_radial_basis_function_networks.pdf) 
+
+47. <font color ="black">  Jinshan Zeng, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">  Sparse solution of underdetermined linear equations via adaptively iterative thresholding, </font> <font color ="red"> Signal Processing, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:hqOjcs7Dif8C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_Sparse_solution_of_underdetermined_linear_equations_via_adaptively_iterative_thresholding.pdf) 
+
+47. <font color ="black">  Jinshan Zeng, Shaobo Lin, Yao Wang, Zongben Xu, </font><font size=3 color ="blue"> L_{1/2}  Regularization: Convergence of Iterative Half Thresholding Algorithm, </font> <font color ="red"> IEEE Transactions on Signal Processing, 2014.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:ULOm3_A8WrAC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2014_L12_Regularization_Convergence_of_Iterative_Half_Thresholding_Algorithm.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Xiaofei Guo, Feilong Cao, Zongben Xu,</font><font size=3 color ="blue">  Approximation by neural networks with scattered data, </font> <font color ="red"> Applied Mathematics and Computation, 2013.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Se3iqnhoufwC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2013_Approximation_by_neural_networks_with_scattered_data.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Yuanhua Rong, Xingping Sun, Zongben Xu,</font><font size=3 color ="blue">  Learning Capability of Relaxed Greedy Algorithms, </font> <font color ="red"> IEEE Transaction on Neural Networks and Learning Systems, 2013.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:WF5omc3nYNoC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2013_Learning_Capability_of_Relaxed_Greedy_Algorithms.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Feilong Cao, Zongben Xu,</font><font size=3 color ="blue">  A convergence rate for approximate solutions of Fredholm integral equations of the first kind, </font> <font color ="red"> Positivity, 2012.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:xGWFX6Gbr9MC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2012_A_convergence_rate_for_approximate_solutions.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Feilong Cao, Xiangyu Chang, Zongben Xu,</font><font size=3 color ="blue">  A general radial quasi-interpolation operator on the sphere, </font> <font color ="red"> Journal of Approximation Theory, 2012.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Tyk-4Ss8FVUC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2012_A_general_radial_quasi-interpolation_operator_on_the_sphere.pdf) 
+
+47. <font color ="black">  ShaoBo Lin, FeiLong Cao, ZongBen Xu,</font><font size=3 color ="blue">  The essential rate of approximation for radial function manifold, </font> <font color ="red"> Science China Mathematics, 2011.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:wyM6WWKXmoIC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2011_The_essential_rate_of_approximation_for_radial_function_manifold.pdf) 
+
+47. <font color ="black">  Shaobo Lin, Feilong Cao, Zongben Xu,</font><font size=3 color ="blue">  Essential rate for approximation by spherical neural networks, </font> <font color ="red"> Neural Networks, 2011.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:u-x6o8ySG0sC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2011_Eessential_rate_for_approximation_by_spherical_neural_networks.pdf) 
+
+
+48. <font color ="black">  Feilong Cao, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">   Approximation capability of interpolation neural networks, </font> <font color ="red">  Neurocomputing, 2010.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:DXE8ND7PrJAC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2010_Approximation_capability_of_interpolation_neural_networks.pdf) 
+
+
+49. <font color ="black">  Feilong Cao, Shaobo Lin, Zongben Xu, </font><font size=3 color ="blue">  Constructive approximate interpolation by neural networks in the metric space, </font> <font color ="red"> Mathematical and Computer Modelling, 2010.</font> 
+   
+      [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:9shLKfS_uJEC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2010_Constructive_approximate_interpolation_by_neural_networks_in_the_metric_space.pdf) 
+
+------
 
