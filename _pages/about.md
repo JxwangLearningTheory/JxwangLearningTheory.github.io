@@ -13,12 +13,25 @@ author_profile: true
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2022.</font>
 
 
+1. <font color ="black">  Jinshan Zeng, Min Zhang, Shao-Bo Lin,</font><font size=3 color ="blue"> Fully corrective gradient boosting with squared hinge: Fast learning rates and early stopping, </font> <font color ="red"> Neural Networks, 2022.</font>
+
+   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:0ngZmJvimKcC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2022_Fully_corrective_gradient_boosting_with_squared_hinge_Fast_learning_rates_and_early_stopping.pdf)  
+
+
+2. <font color ="black">  Shao-Bo Lin, Kaidong Wang, Yao Wang, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Universal consistency of deep convolutional neural networks, </font> <font color ="red"> IEEE Transactions on Information Theory, 2022.</font>
+
+   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:EBV337fEn3EC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2022_Universal_consistency_of_deep_convolutional_neural_networks.pdf)  
+
+
+3. <font color ="black">  Xia Liu, Di Wang, Shao-Bo Lin,</font><font size=3 color ="blue"> Construction of Deep ReLU Nets for Spatially Sparse Learning, </font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2022.</font>
+
+   [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Gpwnp1kGG20C) | [Download PDF Here !]
 
 ------
 
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2021.</font>
 
-1. <font color ="black"> Jinshan Zeng, Min Zhang and Shao-Bo Lin,</font><font size=3 color ="blue"> Fully corrective gradient boosting with squared hinge: Fast learning rates and early stopping, </font> <font color ="red"> Neural Networks，2021.</font>
+1. <font color ="black"> Jinshan Zeng, Min Zhang and Shao-Bo Lin,</font><font size=3 color ="blue"> Fully corrective gradient boosting with squared hinge: Fast learning rates and early stopping, </font> <font color ="red"> Neural Networks, 2021.</font>
 
    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:0ngZmJvimKcC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2021_Fully-Corrective_Gradient.pdf)  
 
