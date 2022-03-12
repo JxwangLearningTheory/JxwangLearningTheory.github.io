@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2022.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2022.</font>
 
 
 1. <font color ="black">  Jinshan Zeng, Min Zhang, Shao-Bo Lin,</font><font size=3 color ="blue"> Fully corrective gradient boosting with squared hinge: Fast learning rates and early stopping, </font> <font color ="red"> Neural Networks, 2022.</font>
@@ -27,7 +27,7 @@ author_profile: true
 
 ------
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2021.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2021.</font>
 
 1. <font color ="black"> Jinshan Zeng, Min Zhang and Shao-Bo Lin,</font><font size=3 color ="blue"> Fully corrective gradient boosting with squared hinge: Fast learning rates and early stopping, </font> <font color ="red"> Neural Networks, 2021.</font>
 
@@ -61,7 +61,7 @@ author_profile: true
 
 ------
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2020.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2020.</font>
 
 
 8. <font color ="black">  Charles K Chui, Shao-Bo Lin, Bo Zhang, Ding-Xuan Zhou,</font><font size=3 color ="blue">  Realization of spatial sparseness by deep ReLU nets with massive data,</font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2020.</font> 
@@ -103,7 +103,7 @@ author_profile: true
 
 ------
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2019.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2019.</font>
 
 
 16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2019.</font>
@@ -145,7 +145,7 @@ author_profile: true
 ------
 
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2018.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2018.</font>
 
 25. <font color ="black">Jian Fang, Shaobo Lin, Zongben Xu,</font><font size=3 color ="blue">  Learning through deterministic assignment of hidden parameters, </font> <font color ="red">  IEEE Transactions on Cybernetics, 2018.</font> 
    
@@ -193,7 +193,7 @@ author_profile: true
 ------
 
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2017.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2017.</font>
 
 34. <font color ="black">  Shao-Bo Lin, Jinshan Zeng, Xiangyu Chang,</font><font size=3 color ="blue">  Learning rates for classification with Gaussian kernels, </font> <font color ="red"> Neural computation, 2017.</font> 
    
@@ -242,7 +242,7 @@ author_profile: true
 ------
 
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2016.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in year 2016.</font>
 
 43. <font color ="black">  Shaobo Lin,</font><font size=3 color ="blue">  Linear and nonlinear approximation of spherical radial basis function networks, </font> <font color ="red"> Journal of Complexity, 2016.</font> 
    
@@ -263,7 +263,7 @@ author_profile: true
 
 ------
 
-<font face="华文彩云"  size=5 color ="DarkViolet"> Published in years 2010 ~ 2015.</font>
+<font face="华文彩云"  size=5 color ="black"> Published in years 2010 ~ 2015.</font>
 
 47. <font color ="black">  Shaobo Lin, Jinshan Zeng, Zongben Xu,</font><font size=3 color ="blue">  Error estimate for spherical neural networks interpolation, </font> <font color ="red"> Neural Processing Letters, 2015.</font> 
    
