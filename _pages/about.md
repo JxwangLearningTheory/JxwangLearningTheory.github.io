@@ -6,8 +6,6 @@ author_profile: true
 
 **Publications:**
 
-
-
 ------
 
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2022.</font>
@@ -90,7 +88,7 @@ author_profile: true
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:qsWQJNntlusC ) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2020_learning_with_selected_features.pdf) 
 
 
-13. <font color ="black"> Di Wang, Jinshan Zeng, Shao-Bo Lin,</font><font size=3 color ="blue">  Random sketching for neural networks with ReLU,</font> <font color ="red"> IEEE transactions on neural networks and learning systems, 2020.</font> 
+13. <font color ="black"> Di Wang, Jinshan Zeng, Shao-Bo Lin,</font><font size=3 color ="blue">  Random sketching for neural networks with ReLU,</font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2020.</font> 
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cNe27ouKFcQC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2020_random_sketching.pdf) 
 
@@ -108,7 +106,7 @@ author_profile: true
 <font face="华文彩云"  size=5 color ="DarkViolet"> Published in year 2019.</font>
 
 
-16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE transactions on neural networks and learning systems, 2019.</font>
+16. <font color ="black">Zheng-Chu Guo, Lei Shi, Shao-Bo Lin,</font><font size=3 color ="blue"> Realizing data features by deep nets,</font> <font color ="red"> IEEE Transactions on Neural Networks and Learning Systems, 2019.</font>
 
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:rCNdntzdTkkC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Realizing_data_features_by_deep_nets.pdf) 
 
@@ -140,7 +138,7 @@ author_profile: true
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:In6cVmBjs0IC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Global_Convergence_of_Block_Coordinate_Descent_in_Deep_Learning.pdf) 
 
-24. <font color ="black"> Yao Wang, Xu Liao, Shaobo Lin,</font><font size=3 color ="blue"> Rescaled boosting in classification,</font> <font color ="red">  IEEE transactions on neural networks and learning systems, 2019.</font> 
+24. <font color ="black"> Yao Wang, Xu Liao, Shaobo Lin,</font><font size=3 color ="blue"> Rescaled boosting in classification,</font> <font color ="red">  IEEE Transactions on Neural Networks and Learning Systems, 2019.</font> 
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:cBPnxVikjH8C) | [Download PDF Here !] 
    
@@ -178,7 +176,7 @@ author_profile: true
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:prdVHNxh-e8C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Constructive_neural_network_learning.pdf) 
 
 
-31. <font color ="black">  Yunwen Lei, Shao-Bo Lin, Ke Tang,</font><font size=3 color ="blue">  Generalization Bounds for Regularized Pairwise Learning, </font> <font color ="red">International Joint Conference on Artificial Intelligence, IJCAI , 2018.</font> 
+31. <font color ="black">  Yunwen Lei, Shao-Bo Lin, Ke Tang,</font><font size=3 color ="blue">  Generalization Bounds for Regularized Pairwise Learning, </font> <font color ="red">International Joint Conference on Artificial Intelligence (IJCAI) , 2018.</font> 
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:Nw_I7GeUguwC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2018_Generalization_Bounds_for_Regularized_Pairwise_Learning.pdf) 
 
@@ -340,6 +338,6 @@ author_profile: true
 49. <font color ="black">  Feilong Cao, Shaobo Lin, Zongben Xu, </font><font size=3 color ="blue">  Constructive approximate interpolation by neural networks in the metric space, </font> <font color ="red"> Mathematical and Computer Modelling, 2010.</font> 
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:9shLKfS_uJEC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2010_Constructive_approximate_interpolation_by_neural_networks_in_the_metric_space.pdf) 
-
+	  
 ------
 
