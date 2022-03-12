@@ -97,9 +97,9 @@ author_profile: true
 
     [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:sbeIDTyQOFgC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2020_Distributed_Learning_with_Dependent_Samples.pdf) 
 
-15. <font color ="black">Shao-Bo Lin, Di Wang, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Distributed Kernel Ridge Regression with Communications.,</font> <font color ="red"> Journal of Machine Learning Research, 2020.</font> 
+15. <font color ="black">Shao-Bo Lin, Di Wang, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Distributed Kernel Ridge Regression with Communications, </font> <font color ="red"> Journal of Machine Learning Research, 2020.</font> 
 
-    [Google Scholar Page]( https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:SrKkpNFED5gC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2020_Distributed_Kernel.pdf)
+    [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:SrKkpNFED5gC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2020_Distributed_Kernel.pdf)
 
 ------
 
@@ -130,7 +130,7 @@ author_profile: true
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:BJtnxTr0fRcC) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_Deep_Neural_Networks_for_Rotation-Invariance_Approximation_and_Learning.pdf) 
 
-22. <font color ="black"> Shao-Bo Lin, Yunwen Lei, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Boosted kernel ridge regression: optimal learning rates and early stopping,</font> <font color ="red"> The Journal of Machine Learning Research, 2019.</font> 
+22. <font color ="black"> Shao-Bo Lin, Yunwen Lei, Ding-Xuan Zhou,</font><font size=3 color ="blue"> Boosted kernel ridge regression: optimal learning rates and early stopping, </font> <font color ="red"> The Journal of Machine Learning Research, 2019.</font> 
    
       [Google Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dGt4l6QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=dGt4l6QAAAAJ:TesyEGJKHF4C) | [Download PDF Here !](https://jxwanglearningtheory.github.io/files/2019_boosted_kernel_ridge_regression_optimal_learning_rates_and_early_stopping.pdf) 
 
